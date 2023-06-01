@@ -1,0 +1,1 @@
+{"1": 1, "2": "two", "3": {"father": {"age": 35, "sex": "male", "param": {"attack": 100, "defense": 70, "#TYPE": "Param"}, "#TYPE": "Person"}, "mather": {"age": 30, "sex": "female", "param": {"attack": 60, "defense": 100, "#TYPE": "Param"}, "#TYPE": "Person"}, "#TYPE": "Family"}}
